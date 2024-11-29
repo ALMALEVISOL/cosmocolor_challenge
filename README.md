@@ -1,9 +1,66 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+# ¡Hola, Bienvenidos!
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+# Project Name 📱
+
+> A brief and compelling one-liner about your project.
+
+![React Native](https://img.shields.io/badge/React%20Native-v0.72.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey)
+
+## 🚀 **Sobre el proyecto**
+
+- **Que hace?**
+  - Esta pequeña app consulta información a una API externa que regresa un arreglo de publicaciones; las cuales se muestran en una vista "scrolleable" cada publicación contiene detalles como título y descripción
+
+- **Porque se desarrollo esta prueba?**
+  - Se trata de demostrar mi conocimiento avanzado sobre React y React Native
+
+---
+
+## 📹 **Ve la app en funcionamiento**
+
+
+---
+
+## 🛠️ **Stack Tecnológico**
+
+- **Core:** React Native, TypeScript
+- **UI:** React Native Paper
+- **Navigation:** React Navigation
+- **Backend API:** https://jsonplaceholder.typicode.com/posts
+
+---
+
+## ⚙️ **Funcionalidades**
+
+- 📋 Consulta API externa
+- 🌟 Renderiza publicaciones en una vista "Scrolleable" que consta de un título y una imagen
+- 🚀 Cada publicación contiene detalles como Título y descripción
+- 🔒 Se agregó "Loaders" cuando se carga los datos de la API
+
+---
+
+## 🚀 **Funcionalidades BONUS**
+
+- 📋 Se agregó un gradiente como fondo de Home
+- 🌟 Loaders en cada imagen que renderiza
+- 🚀 Se agregaron animaciones de tipo "Lottie" 
+- 🔒 Se agregó una bonita "Splash Screen" cuando recién carga la app por primera vez
+
+---
+## 🚀 **Desafios enfrentados y buenas prácticas de desarrollo**
+
+- 📋 Performance de la vista principal de publicaciones:
+      1.- Se utilizó componente FlatList en lugar de un simple Scrollview
+      2.- Se uso React.memo para evitar que cada tarjeta causara otro "render"
+      3.- Se urilizó useCallback para evitar en lo posible un render adicional en cada publicación
+
+---
+
+## 🛠️ **Ejecutar esta app**
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -45,24 +102,6 @@ yarn ios
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
 # Troubleshooting
 
