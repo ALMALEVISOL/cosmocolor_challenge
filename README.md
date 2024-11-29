@@ -1,21 +1,21 @@
 # ¡Hola, Bienvenidos!
 
-##Prueba técnica Cosmocolor - Alejandro Del Moral 📱
+## Prueba técnica Cosmocolor - Alejandro Del Moral 📱
 
 ![React Native](https://img.shields.io/badge/React%20Native-v0.72.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey)
 
 ## 🚀 **Sobre el proyecto**
 
-- **Que hace?**
+- **¿Que hace?**
   - Esta pequeña app consulta información a una API externa que regresa un arreglo de publicaciones; las cuales se muestran en una vista "scrolleable" cada publicación contiene detalles como título y descripción
 
-- **Porque se desarrollo esta prueba?**
+- **¿Porque se desarrollo esta prueba?**
   - Se trata de demostrar mi conocimiento avanzado sobre React y React Native
 
 ---
 
 ## 📹 **Ve la app en funcionamiento**
-
+[![Watch the demo](https://img.youtube.com/vi/<video-id>/0.jpg)](https://1drv.ms/v/c/2da5ed739defbc76/EZSiuclmvZVFjEa4EIdEAeoBVS3TKJiYrITcRp3S5rS4oQ?e=hPzx1S)
 
 ---
 
@@ -25,7 +25,6 @@
 - **UI:** React Native Paper
 - **Navigation:** React Navigation
 - **Backend API:** https://jsonplaceholder.typicode.com/posts
-
 ---
 
 ## ⚙️ **Funcionalidades**
@@ -48,8 +47,17 @@
 ## 🚀 **Desafios enfrentados y buenas prácticas de desarrollo**
 
 - 📋 Performance de la vista principal de publicaciones:
-      1.- Se utilizó componente FlatList en lugar de un simple Scrollview
-      2.- Se uso React.memo para evitar que cada tarjeta causara otro "render"
-      3.- Se urilizó useCallback para evitar en lo posible un render adicional en cada publicación
+- Se utilizó componente FlatList en lugar de un simple Scrollview
+- Se utilizó React.memo para evitar que cada tarjeta causara otro "render"
+- Se utilizó hook useCallback para evitar, en lo posible, un render adicional en cada publicación
+---
+---
+
+## 🛠️ **APK - Solo Android**
+
+- **Proactividad:** He compilado una apk por si gustan instalarla en su dispositivo android, de cualquier forma pueden ver un video en la parte superior de este README
+
+Google: https://storage.googleapis.com/cosmocolor_challenge/cosmocolor_challenge.apk
+Onedrive: https://1drv.ms/u/c/2da5ed739defbc76/EbZUTm-rHTlBt3_0uaDBz5IB75etXEBz2PlVgRBlkkfSHQ?e=vMmc9K
 
 ---
