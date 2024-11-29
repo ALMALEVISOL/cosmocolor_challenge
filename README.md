@@ -15,7 +15,7 @@
 ---
 
 ## 📹 **Ve la app en funcionamiento**
-[![Video]](https://1drv.ms/v/c/2da5ed739defbc76/EaScG3HLvFBKp_Lq7kkIx4QBDkiB14jfAVi4N6vh4dpPMA?e=FGbT2o)
+[Video](https://1drv.ms/v/c/2da5ed739defbc76/EaScG3HLvFBKp_Lq7kkIx4QBDkiB14jfAVi4N6vh4dpPMA?e=FGbT2o)
 
 ---
 
