@@ -2,7 +2,7 @@
 
 ## Prueba técnica Cosmocolor - Alejandro Del Moral 📱
 
-![React Native](https://img.shields.io/badge/React%20Native-v0.72.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey)
+![React Native](https://img.shields.io/badge/React%20Native-v0.72.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-Android-lightgrey)
 
 ## 🚀 **Sobre el proyecto**
 
@@ -15,7 +15,7 @@
 ---
 
 ## 📹 **Ve la app en funcionamiento**
-[![Watch the demo](https://img.youtube.com/vi/<video-id>/0.jpg)](https://1drv.ms/v/c/2da5ed739defbc76/EZSiuclmvZVFjEa4EIdEAeoBVS3TKJiYrITcRp3S5rS4oQ?e=hPzx1S)
+[![Video]](https://1drv.ms/v/c/2da5ed739defbc76/EaScG3HLvFBKp_Lq7kkIx4QBDkiB14jfAVi4N6vh4dpPMA?e=FGbT2o)
 
 ---
 
@@ -55,9 +55,9 @@
 
 ## 🛠️ **APK - Solo Android**
 
-- **Proactividad:** He compilado una apk por si gustan instalarla en su dispositivo android, de cualquier forma pueden ver un video en la parte superior de este README
+**Proactividad:** He compilado una apk por si gustan instalarla en su dispositivo android, de cualquier forma pueden ver un video en la parte superior de este README
 
-Google: https://storage.googleapis.com/cosmocolor_challenge/cosmocolor_challenge.apk
-Onedrive: https://1drv.ms/u/c/2da5ed739defbc76/EbZUTm-rHTlBt3_0uaDBz5IB75etXEBz2PlVgRBlkkfSHQ?e=vMmc9K
+- Google: https://storage.googleapis.com/cosmocolor_challenge/cosmocolor_challenge.apk
+- Onedrive: https://1drv.ms/u/c/2da5ed739defbc76/EbZUTm-rHTlBt3_0uaDBz5IB75etXEBz2PlVgRBlkkfSHQ?e=vMmc9K
 
 ---
